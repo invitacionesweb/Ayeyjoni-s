@@ -441,7 +441,7 @@ label .grupo-opciones {
 .formulario select:focus,
 .formulario textarea:focus {
   outline: none;
-  border: 2px solid #d4e2cf;
+  border: 2px solid #ab9333;
 }
 .formulario textarea {
   resize: vertical;
